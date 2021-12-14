@@ -17,6 +17,9 @@
   "scripts": {
     "start": "nodemon app.js"
  },
+ "engines": {
+  "node": "16.3.1"
+},
   "author": "Addy Prairie",
   "license": "ISC",
   "devDependencies": {
