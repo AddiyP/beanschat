@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1046.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "formidable": "^2.0.1",
+    "instagram-node": "^0.5.8",
+    "instagram-web-api": "^2.2.2",
+    "mongodb": "^4.2.2",
+    "nodemailer": "^6.7.2",
+    "socket.io": "^4.4.0"
+  },
+  "name": "beanschat",
+  "version": "1.0.0",
+  "description": "beanschat.com",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+ },
+  "author": "Addy Prairie",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
